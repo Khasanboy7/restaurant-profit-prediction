@@ -1,7 +1,7 @@
-House Price Prediction Model
+Restaurant profit prediction model
 Project Overview
 
-This project is focused on predicting house prices using machine learning techniques. The goal is to provide accurate price estimations based on various features such as location, size, number of rooms, and other property-related attributes. This project was developed as part of a Coursera Machine Learning course, combining both data preprocessing and predictive modeling skills.
+This project is focused on predicting restaurant using machine learning techniques. The goal is to provide accurate price estimations based on various features such as location, size, number of rooms, and other property-related attributes. This project was developed as part of a Coursera Machine Learning course, combining both data preprocessing and predictive modeling skills.
 
 Dataset
 
@@ -53,7 +53,7 @@ Fine-tuned hyperparameters to improve predictions
 
 Results
 
-The best-performing model achieved an R² score of X.XX and RMSE of XXXX, providing reliable house price predictions.
+The best-performing model achieved an R² score of X.XX and RMSE of XXXX, providing reliable Restaurant profit predictions.
 
 Visualizations of predicted vs. actual prices show strong correlation, demonstrating model accuracy.
 
@@ -71,7 +71,7 @@ To use this model:
 
 Clone the repository:
 
-git clone https://github.com/Khasanboy7/house-price-prediction.git
+git clone https://github.com/Khasanboy7/restauran-profit-prediction.git
 
 
 Install required packages:
@@ -80,7 +80,7 @@ pip install -r ex1data1.txt
 pip install -r ex1data2.txt
 
 
-Run the notebook to train the model and predict house prices.
+Run the notebook to train the model and predict restaurant profit.
 
 Future Improvements
 
