@@ -71,7 +71,7 @@ To use this model:
 
 Clone the repository:
 
-git clone https://github.com/Khasanboy7/restauran-profit-prediction.git
+git clone https://github.com/Khasanboy7/restaurant-profit-prediction.git
 
 
 Install required packages:
